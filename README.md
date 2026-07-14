@@ -71,20 +71,9 @@ Feel free to connect with me on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=vue-dark&preferLogin=false">    <img  alt="Andres-debug's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Andres-debug?cardType=level-alternate&theme=vue-dark&preferLogin=false" />  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=vue-dark&preferLogin=false">    <img  alt="Andres-debug's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ADExcelec?cardType=level-alternate&theme=vue-dark&preferLogin=false" />  </a>
   </p>
 
-
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Andres-debug&theme=dark" alt="GitHub Streak" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-debug&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Andres-debug's Top Languages" />
-</p>
-
----
-https://conecta-page.vercel.app
 
 ## 🛠️ Highlighted Projects & Contributions
 
